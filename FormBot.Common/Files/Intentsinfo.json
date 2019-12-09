@@ -1,0 +1,77 @@
+{
+    "BotIntents": [{
+            "Name": "CreateForm",
+            "AuthorisedGroups": ["MyAdGroup"],
+            "ExpectedEntities": [{
+                "DependentChildEntityIds": [],
+                "DisplayName": "Text Entity One",
+                "EntityId": 1,
+                "EntityType": "Text",
+                "InitalQuestion": "Please provide the complete Text Entity One:",
+                "IsActiveEntity": true,
+                "IsValidated": false,
+                "MoreThanOneRecordQuestion": "Please select {0} from the matches found:",
+                "Name": "TextEntityOne",
+                "NoMatchQuestion": "No matches found for {0} provided. Please provide the value again.",
+                "PoseInitialQuestion": true,
+                "RecordsExceededLimitQuestion": "There are too many matches for {0} with value '{1}'. Please provide a longer name to search.",
+                "Value": ""
+            },
+            {
+                "DependentChildEntityIds": [],
+                "DisplayName": "Card Entity One",
+                "EntityId": 2,
+                "EntityType": "Cards",
+                "InitalQuestion": "Please provide the complete Card Entity:",
+                "IsActiveEntity": true,
+                "IsValidated": false,
+                "MoreThanOneRecordQuestion": "Please select {0} from the matches found:",
+                "Name": "CardEntityOne",
+                "NoMatchQuestion": "No matches found for {0} provided. Please provide the value again.",
+                "PoseInitialQuestion": true,
+                "RecordsExceededLimitQuestion": "There are too many matches for {0} with value '{1}'. Please provide a longer name to search.",
+                "Value": ""
+            },
+            {
+                "DependentChildEntityIds": [],
+                "DisplayName": "Date Entity One",
+                "EntityId": 3,
+                "EntityType": "Date",
+                "InitalQuestion": "Please provide the complete Date Entity:",
+                "IsActiveEntity": true,
+                "IsValidated": false,
+                "MoreThanOneRecordQuestion": "Please select {0} from the matches found:",
+                "Name": "DateEntityOne",
+                "NoMatchQuestion": "No matches found for {0} provided. Please provide the value again.",
+                "PoseInitialQuestion": true,
+                "RecordsExceededLimitQuestion": "There are too many matches for {0} with value '{1}'. Please provide a longer name to search.",
+                "Value": ""
+            },
+            {
+                "DependentChildEntityIds": [],
+                "DisplayName": "Confirmation Entity One",
+                "EntityId": 3,
+                "EntityType": "Confirmation",
+                "InitalQuestion": "Please provide the complete Confirmation Entity:",
+                "IsActiveEntity": true,
+                "IsValidated": false,
+                "MoreThanOneRecordQuestion": "Please select {0} from the matches found:",
+                "Name": "ConfirmationEntityOne",
+                "NoMatchQuestion": "No matches found for {0} provided. Please provide the value again.",
+                "PoseInitialQuestion": true,
+                "RecordsExceededLimitQuestion": "There are too many matches for {0} with value '{1}'. Please provide a longer name to search.",
+                "Value": ""
+            }
+        ],
+            "IntentResponse": "Thank you. Creation of Form is initiated.",
+            "ModificationQuestion": "Would you like to modify the details before proceeding for submission?",
+            "SubmissionQuestion": "Would you like to proceed for submission?",
+            "SubmissionSucessfulResponse": "Thank you for the confirmation. The details have been submitted for Form Creation. \n Your temporary reference number is {0}"
+        }
+   
+    ],
+    "NumberOfCardsToShow": 1000,
+    "BotCapabilitiesList": ["CreateForm", "Qna"],
+    "SubmissionFailureResponse": "There has been an error processing your request. Please try again later after sometime!!",
+    "FlowAbortedMessage": "The flow has been aborted sucessfully. Please let me know if you want to start any flow again!!"
+}

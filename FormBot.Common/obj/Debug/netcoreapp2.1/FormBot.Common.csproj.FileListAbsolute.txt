@@ -1,0 +1,15 @@
+D:\DotnetProjs\FormBot.Common\bin\Debug\netcoreapp2.1\FormBot.Common.deps.json
+D:\DotnetProjs\FormBot.Common\bin\Debug\netcoreapp2.1\FormBot.Common.dll
+D:\DotnetProjs\FormBot.Common\bin\Debug\netcoreapp2.1\FormBot.Common.pdb
+D:\DotnetProjs\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.AssemblyInfoInputs.cache
+D:\DotnetProjs\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.AssemblyInfo.cs
+D:\DotnetProjs\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.dll
+D:\DotnetProjs\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.pdb
+D:\DotnetProjs\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.csprojAssemblyReference.cache
+D:\DotnetProjs\BasicBotTemplate\FormBot.Common\bin\Debug\netcoreapp2.1\FormBot.Common.deps.json
+D:\DotnetProjs\BasicBotTemplate\FormBot.Common\bin\Debug\netcoreapp2.1\FormBot.Common.dll
+D:\DotnetProjs\BasicBotTemplate\FormBot.Common\bin\Debug\netcoreapp2.1\FormBot.Common.pdb
+D:\DotnetProjs\BasicBotTemplate\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.AssemblyInfoInputs.cache
+D:\DotnetProjs\BasicBotTemplate\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.AssemblyInfo.cs
+D:\DotnetProjs\BasicBotTemplate\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.dll
+D:\DotnetProjs\BasicBotTemplate\FormBot.Common\obj\Debug\netcoreapp2.1\FormBot.Common.pdb

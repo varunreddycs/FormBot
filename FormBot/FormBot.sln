@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBot", "FormBot.csproj", "{AC71369B-6323-4746-B717-EB80B34366C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBot.Common", "..\FormBot.Common\FormBot.Common.csproj", "{DFB700E3-AFF1-4BA0-B145-D26569884A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC71369B-6323-4746-B717-EB80B34366C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC71369B-6323-4746-B717-EB80B34366C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC71369B-6323-4746-B717-EB80B34366C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC71369B-6323-4746-B717-EB80B34366C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB700E3-AFF1-4BA0-B145-D26569884A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB700E3-AFF1-4BA0-B145-D26569884A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB700E3-AFF1-4BA0-B145-D26569884A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB700E3-AFF1-4BA0-B145-D26569884A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {563B871A-988F-48B9-9EC1-2DC8F89B4241}
+	EndGlobalSection
+EndGlobal
